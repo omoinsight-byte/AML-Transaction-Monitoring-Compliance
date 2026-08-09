@@ -1,4 +1,3 @@
-# AML-Transaction-Monitoring-Compliance
 # AML Transaction Monitoring & Compliance Dashboard
 
 ## Project Overview
