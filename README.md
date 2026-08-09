@@ -60,6 +60,18 @@ SQL is being used to investigate questions including:
 9. How does transaction activity vary over time?
 10. Which cases should be prioritised for investigation?
 
+The SQL analysis investigates transaction and compliance risk using queries designed to support AML monitoring and investigation prioritisation.
+
+The analysis covers:
+- Transaction risk classification
+- Transaction values and volumes
+- High-risk activity
+- Compliance case status
+- Alert reasons
+- Customer activity
+- Country risk
+- Investigation priorities
+
 ## Power BI Dashboard
 
 The Power BI dashboard will provide an interactive view of:
