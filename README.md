@@ -117,3 +117,6 @@ Example Power BI measures include:
 ```DAX
 Total Transactions =
 COUNTROWS(Transactions)
+
+
+Inital data; https://www.kaggle.com/datasets/chaitalithakkar/synthetic-kyc-and-transaction-risk-dataset?select=transactions_with_fatf_ofac.csv
