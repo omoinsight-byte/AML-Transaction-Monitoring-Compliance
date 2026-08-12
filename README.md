@@ -86,6 +86,30 @@ The Power BI dashboard will provide an interactive view of:
 - Alert reasons
 - Investigation priorities
 
+## Business Recommendations
+
+Based on the analysis, organisations could:
+
+1. Prioritise high-risk transactions for enhanced investigation.
+2. Monitor customers who repeatedly trigger AML alerts.
+3. Apply enhanced due diligence to customers associated with elevated risk.
+4. Increase monitoring of higher-risk jurisdictions.
+5. Investigate recurring suspicious behaviours such as structuring and unusually high-value transactions.
+6. Use automated risk scoring and dashboards to support ongoing transaction monitoring.
+
+## Skills Demonstrated
+
+- SQL querying and data analysis
+- Power BI dashboard development
+- DAX measures
+- Data visualisation
+- Risk and compliance analysis
+- AML transaction monitoring
+- Business question development
+- Data-driven recommendations
+- Analytical storytelling
+
+
 ## Key Measures
 
 Example Power BI measures include:
